@@ -37,6 +37,7 @@ export const OptionContainer = styled.div`
 
 export const OptionName = styled.span`
   margin-bottom: 12px;
+  color: #f49f1c;
 `;
 
 export const AddButton = styled.button`
